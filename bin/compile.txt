@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+apt-get install -qq -y libproj-dev proj-bin proj-data libtcmalloc-minimal4 libhdf5-serial-dev python3-grib
+
